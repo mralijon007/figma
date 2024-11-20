@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "id":"1",
+            "name":"Muhammadali",
+            "status":false
+        },
+        {
+            "id":"2",
+            "name":"Nizomi",
+            "status":false
+        },
+        {
+            "id":"3",
+            "name":"Izat",
+            "status":false
+        }
+    ]
+}
